@@ -1,0 +1,15 @@
+[19-03-04T14:10:59] jackoneil accessed record for: jackoneil Outcome: success
+[19-03-04T14:10:59] jackoneil tried accessing record for: samanthacarter outcome: denied
+[19-03-04T14:10:59] jackoneil tried editing record (2019-03-03) for: jackoneil Outcome: denied
+[19-03-04T14:10:59] jackoneil tried creating record (2019-03-05) for: jackoneil Outcome: denied
+[19-03-04T14:10:59] jackoneil accessed record for: jackoneil Outcome: success
+[19-03-04T14:12:28] jackoneil accessed record for: jackoneil Outcome: success
+[19-03-04T14:12:28] jackoneil tried accessing record for: samanthacarter outcome: denied
+[19-03-04T14:12:28] jackoneil tried editing record (2019-03-03) for: jackoneil Outcome: denied
+[19-03-04T14:12:28] jackoneil tried creating record (2019-03-05) for: jackoneil Outcome: denied
+[19-03-04T14:12:28] jackoneil accessed record for: jackoneil Outcome: success
+[19-03-04T14:12:53] docfixesproblems accessed record for: jackoneil Outcome: success
+[19-03-04T14:12:53] docfixesproblems accessed record for: samanthacarter Outcome: success
+[19-03-04T14:12:53] docfixesproblems edited record (2019-03-03) for: jackoneil Outcome: success
+[19-03-04T14:12:53] docfixesproblems created record (2019-03-05) for: jackoneil Outcome: success
+[19-03-04T14:12:53] docfixesproblems accessed record for: jackoneil Outcome: success
