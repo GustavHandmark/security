@@ -18,13 +18,13 @@ public class LoginScreen extends GridPane {
         setVgap(10);
         setPadding(new Insets(25, 25, 25, 25));
 
-        Label usernameLabel = new Label("Path to certificate:");
+        Label usernameLabel = new Label("Username:");
         add(usernameLabel, 0, 1);
 
         TextField usernameTextField = new TextField();
         add(usernameTextField, 1, 1);
 
-        Label passwordLabel = new Label("Keystore password:");
+        Label passwordLabel = new Label("Password:");
         add(passwordLabel, 0, 2);
 
         PasswordField passwordField = new PasswordField();

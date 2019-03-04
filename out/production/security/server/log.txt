@@ -1,0 +1,49 @@
+[19-03-04T14:10:59] jackoneil accessed record for: jackoneil Outcome: success
+[19-03-04T14:10:59] jackoneil tried accessing record for: samanthacarter outcome: denied
+[19-03-04T14:10:59] jackoneil tried editing record (2019-03-03) for: jackoneil Outcome: denied
+[19-03-04T14:10:59] jackoneil tried creating record (2019-03-05) for: jackoneil Outcome: denied
+[19-03-04T14:10:59] jackoneil accessed record for: jackoneil Outcome: success
+[19-03-04T14:12:28] jackoneil accessed record for: jackoneil Outcome: success
+[19-03-04T14:12:28] jackoneil tried accessing record for: samanthacarter outcome: denied
+[19-03-04T14:12:28] jackoneil tried editing record (2019-03-03) for: jackoneil Outcome: denied
+[19-03-04T14:12:28] jackoneil tried creating record (2019-03-05) for: jackoneil Outcome: denied
+[19-03-04T14:12:28] jackoneil accessed record for: jackoneil Outcome: success
+[19-03-04T14:12:53] docfixesproblems accessed record for: jackoneil Outcome: success
+[19-03-04T14:12:53] docfixesproblems accessed record for: samanthacarter Outcome: success
+[19-03-04T14:12:53] docfixesproblems edited record (2019-03-03) for: jackoneil Outcome: success
+[19-03-04T14:12:53] docfixesproblems created record (2019-03-05) for: jackoneil Outcome: success
+[19-03-04T14:12:53] docfixesproblems accessed record for: jackoneil Outcome: success
+[19-03-04T20:25:24] jackoneil accessed record for: jackoneil Outcome: success
+[19-03-04T20:25:33] jackoneil accessed record for: jackoneil Outcome: success
+[19-03-04T20:25:36] jackoneil accessed record for: jackoneil Outcome: success
+[19-03-04T20:30:16] jackoneil accessed record for: jackoneil Outcome: success
+[19-03-04T20:33:06] jackoneil accessed record for: jackoneil Outcome: success
+[19-03-04T20:34:54] jackoneil accessed record for: jackoneil Outcome: success
+[19-03-04T20:34:58] jackoneil accessed record for: jackoneil Outcome: success
+[19-03-04T20:35:04] jackoneil accessed record for: jackoneil Outcome: success
+[19-03-04T20:35:31] jackoneil accessed record for: jackoneil Outcome: success
+[19-03-04T20:35:36] jackoneil accessed record for: jackoneil Outcome: success
+[19-03-04T20:40:51] docfixesproblems accessed record for: jackoneil Outcome: success
+[19-03-04T20:51:28] jackoneil accessed record for: jackoneil Outcome: success
+[19-03-04T20:51:31] jackoneil tried editing record (2019-03-03) for: jackoneil Outcome: denied
+[19-03-04T20:51:35] jackoneil accessed record for: jackoneil Outcome: success
+[19-03-04T20:52:02] docfixesproblems accessed record for: jackoneil Outcome: success
+[19-03-04T20:52:19] docfixesproblems edited record (2019-03-03) for: jackoneil Outcome: success
+[19-03-04T20:52:33] docfixesproblems accessed record for: jackoneil Outcome: success
+[19-03-04T21:26:18] docfixesproblems created record (2019-03-08) for: jackoneil Outcome: success
+[19-03-04T21:30:45] docfixesproblems created record (2019-03-09) for: jackoneil Outcome: success
+[19-03-04T21:30:49] docfixesproblems accessed record for: jackoneil Outcome: success
+[19-03-04T21:34:01] government deleted record (2019-03-09) for: jackoneil Outcome: success
+[19-03-04T21:37:32] government accessed record for: samanthacarter Outcome: success
+[19-03-04T21:37:34] government accessed record for: samanthacarter Outcome: success
+[19-03-04T21:37:36] government tried editing record (2019-03-04) for: samanthacarter Outcome: denied
+[19-03-04T21:37:44] government accessed record for: jackoneil Outcome: success
+[19-03-04T21:37:47] government accessed record for: jackoneil Outcome: success
+[19-03-04T21:37:49] government accessed record for: jackoneil Outcome: success
+[19-03-04T21:37:55] government accessed record for: jackoneil Outcome: success
+[19-03-04T21:37:56] government tried editing record (2019-03-08) for: jackoneil Outcome: denied
+[19-03-04T21:38:04] government deleted record (2019-03-08) for: jackoneil Outcome: success
+[19-03-04T21:43:42] government accessed record for: claudiablack Outcome: success
+[19-03-04T21:44:42] nursepaingone accessed record for: claudiablack Outcome: success
+[19-03-04T21:44:52] nursepaingone edited record (2019-03-05) for: claudiablack Outcome: success
+[19-03-04T21:45:12] nursepaingone accessed record for: claudiablack Outcome: success

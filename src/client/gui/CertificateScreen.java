@@ -18,24 +18,24 @@ public class CertificateScreen extends GridPane {
         setVgap(10);
         setPadding(new Insets(25, 25, 25, 25));
 
-        Label usernameLabel = new Label("Username:");
+        Label usernameLabel = new Label("Path to certificate:");
         add(usernameLabel, 0, 1);
 
         TextField usernameTextField = new TextField();
         add(usernameTextField, 1, 1);
 
-        Label passwordLabel = new Label("Password:");
+        Label passwordLabel = new Label("Keystore password:");
         add(passwordLabel, 0, 2);
 
         PasswordField passwordField = new PasswordField();
         add(passwordField, 1, 2);
 
-        Button loginButton = new Button("Sign in");
+        Button loginButton = new Button("Submit");
         HBox loginButtonBox = new HBox(10);
         loginButtonBox.setAlignment(Pos.BOTTOM_RIGHT);
         loginButtonBox.getChildren().add(loginButton);
         add(loginButtonBox, 1, 4);
 
-        loginButton.setOnAction(e -> window.login(usernameTextField.getText(), passwordField.getText()));
+        loginButton.setOnAction(e -> window.authorizeCertificate(usernameTextField.getText(), passwordField.getText()));
     }
 }
